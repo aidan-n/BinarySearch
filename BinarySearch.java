@@ -25,7 +25,7 @@ public class BinarySearch {
 	}
 
 	public static void main(String[] args) {
-		int arr[] = {2, 4, 5, 11, 12, 13};
+		int[] arr = {2, 4, 5, 11, 12, 13};
 		System.out.println("Number 5 found at index " + binarysearch(arr, 5));
 	}
 
