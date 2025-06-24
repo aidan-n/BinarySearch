@@ -3,7 +3,7 @@
 public class BinarySearch {
 
 	// Takes a sorted array and returns the index of the given integer
-	public static int binarysearch(int arr[], int key) {
+	public static int binarysearch(int[] arr, int key) {
 		int low = 0;
 		int high = arr.length - 1;
 		int mid;
